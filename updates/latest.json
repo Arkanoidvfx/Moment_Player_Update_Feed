@@ -1,7 +1,7 @@
 {
-  "installer_url": "https://github.com/Arkanoidvfx/Moment_Player_Update_Feed/releases/download/v0.1.29/MomentPlayer-Setup-0.1.29.exe",
-  "version": "0.1.29",
-  "sha256": "6869a21f3949e3adb5e4ac10a0363dc47f7417626e07726c23c4f0500894e095",
-  "published_at_utc": "2026-05-09T02:33:22Z",
-  "body": "Кнопка «скрыть до следующего запуска», новый дизайн баннера и окно прогресса установки."
+  "installer_url": "https://github.com/Arkanoidvfx/Moment_Player_Update_Feed/releases/download/v0.2.0/MomentPlayer-Setup-0.2.0.exe",
+  "version": "0.2.0",
+  "sha256": "ed9cd944c9afcf7847d67a0f915af65d378f0681126db781887ab51e0f52fe39",
+  "published_at_utc": "2026-05-13T17:56:38Z",
+  "body": "Добавлены метаданные Deadlock, графики, ранги и исправлены метки событий на таймлайне."
 }
