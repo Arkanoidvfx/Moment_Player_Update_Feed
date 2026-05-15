@@ -1,7 +1,7 @@
 {
-  "installer_url": "https://github.com/Arkanoidvfx/Moment_Player_Update_Feed/releases/download/v0.2.1/MomentPlayer-Setup-0.2.1.exe",
-  "version": "0.2.1",
-  "sha256": "e73b28a124c3dfc226497868d2e34269f789e80b88eefa4634fbb031d877a933",
-  "published_at_utc": "2026-05-15T13:41:30Z",
-  "body": "Ускорены релизные сборки и подготовлены фоновые обновления Moment Player."
+  "installer_url": "https://github.com/Arkanoidvfx/Moment_Player_Update_Feed/releases/download/v0.2.2/MomentPlayer-Setup-0.2.2.exe",
+  "version": "0.2.2",
+  "sha256": "9945bcc8032178fb3c70f5f480be9da0693bec6f3b5e5b25d3a0fee026374780",
+  "published_at_utc": "2026-05-15T15:22:38Z",
+  "body": "Ускорен запуск после обновления и снижены повторы загрузки метаданных Deadlock."
 }
