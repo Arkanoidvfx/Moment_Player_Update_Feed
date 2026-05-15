@@ -1,7 +1,7 @@
 {
-  "installer_url": "https://github.com/Arkanoidvfx/Moment_Player_Update_Feed/releases/download/v0.2.3/MomentPlayer-Setup-0.2.3.exe",
-  "version": "0.2.3",
-  "sha256": "c065a51d39e68c9a2afaff48fa5c204b0952b73568be262f77a04a93ec4cfdeb",
-  "published_at_utc": "2026-05-15T17:43:26Z",
-  "body": "Добавлена кнопка «Скрыть», а скачанное обновление применится после закрытия плеера."
+  "installer_url": "https://github.com/Arkanoidvfx/Moment_Player_Update_Feed/releases/download/v0.2.4/MomentPlayer-Setup-0.2.4.exe",
+  "version": "0.2.4",
+  "sha256": "622d1d3a49a630e9346d73eebf71e3620423bb0a56c80cb958b521a3e919babe",
+  "published_at_utc": "2026-05-15T20:07:06Z",
+  "body": "Ускорен запуск видео: проверка обновлений больше не мешает первому кадру."
 }
