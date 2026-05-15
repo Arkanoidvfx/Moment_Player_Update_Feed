@@ -1,7 +1,7 @@
 {
-  "installer_url": "https://github.com/Arkanoidvfx/Moment_Player_Update_Feed/releases/download/v0.2.0/MomentPlayer-Setup-0.2.0.exe",
-  "version": "0.2.0",
-  "sha256": "ed9cd944c9afcf7847d67a0f915af65d378f0681126db781887ab51e0f52fe39",
-  "published_at_utc": "2026-05-13T17:56:38Z",
-  "body": "Добавлены метаданные Deadlock, графики, ранги и исправлены метки событий на таймлайне."
+  "installer_url": "https://github.com/Arkanoidvfx/Moment_Player_Update_Feed/releases/download/v0.2.1/MomentPlayer-Setup-0.2.1.exe",
+  "version": "0.2.1",
+  "sha256": "e73b28a124c3dfc226497868d2e34269f789e80b88eefa4634fbb031d877a933",
+  "published_at_utc": "2026-05-15T13:41:30Z",
+  "body": "Ускорены релизные сборки и подготовлены фоновые обновления Moment Player."
 }
