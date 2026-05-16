@@ -1,7 +1,7 @@
 {
-  "installer_url": "https://github.com/Arkanoidvfx/Moment_Player_Update_Feed/releases/download/v0.2.5/MomentPlayer-Setup-0.2.5.exe",
-  "version": "0.2.5",
-  "sha256": "f30522ca43369fd4aa12178560a19e6971da4c89b2a7898af286b31dcf08ca93",
-  "published_at_utc": "2026-05-15T21:12:32Z",
-  "body": "Ускорен запуск видео: Velopack больше не тормозит обычное открытие файла."
+  "installer_url": "https://github.com/Arkanoidvfx/Moment_Player_Update_Feed/releases/download/v0.2.6/MomentPlayer-Setup-0.2.6.exe",
+  "version": "0.2.6",
+  "sha256": "9eddb8ae131e6ae76c80ccc6200dfae26b17b0cb7267c192ad064dcd681cd775",
+  "published_at_utc": "2026-05-16T01:30:21Z",
+  "body": "Обновления ставятся при следующем запуске, быстрее первый кадр, SteamID виден в Deadlock."
 }
