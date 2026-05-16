@@ -1,7 +1,8 @@
 {
-  "installer_url": "https://github.com/Arkanoidvfx/Moment_Player_Update_Feed/releases/download/v0.2.7/MomentPlayer-Setup-0.2.7.exe",
-  "version": "0.2.7",
-  "sha256": "1cec6c0edb0b583e7d3edbd3ea5811ee24c64b7deb1aaf2ef3bfdd256f9350b8",
-  "published_at_utc": "2026-05-16T02:20:19Z",
-  "body": "Видео больше не подвисает после открытия: скан папки ждёт открытия боковой панели."
+  "installer_url": "https://github.com/Arkanoidvfx/Moment_Player_Update_Feed/releases/download/v0.2.8/MomentPlayer-Setup-0.2.8.exe",
+  "version": "0.2.8",
+  "sha256": "3e74158d3d16d19fcb8abf4b21cf2b13b5e3e0c1f456c2a5dc0cc3aa1b9d5d44",
+  "published_at_utc": "2026-05-16T03:04:15Z",
+  "body": "Исправлено автообновление: плеер снова скачивает новые версии в фоне."
 }
+
