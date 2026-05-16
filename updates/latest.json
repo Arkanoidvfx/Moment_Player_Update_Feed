@@ -1,7 +1,7 @@
 {
-  "installer_url": "https://github.com/Arkanoidvfx/Moment_Player_Update_Feed/releases/download/v0.2.6/MomentPlayer-Setup-0.2.6.exe",
-  "version": "0.2.6",
-  "sha256": "9eddb8ae131e6ae76c80ccc6200dfae26b17b0cb7267c192ad064dcd681cd775",
-  "published_at_utc": "2026-05-16T01:30:21Z",
-  "body": "Обновления ставятся при следующем запуске, быстрее первый кадр, SteamID виден в Deadlock."
+  "installer_url": "https://github.com/Arkanoidvfx/Moment_Player_Update_Feed/releases/download/v0.2.7/MomentPlayer-Setup-0.2.7.exe",
+  "version": "0.2.7",
+  "sha256": "1cec6c0edb0b583e7d3edbd3ea5811ee24c64b7deb1aaf2ef3bfdd256f9350b8",
+  "published_at_utc": "2026-05-16T02:20:19Z",
+  "body": "Видео больше не подвисает после открытия: скан папки ждёт открытия боковой панели."
 }
