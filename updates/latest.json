@@ -1,8 +1,7 @@
 {
-  "installer_url": "https://github.com/Arkanoidvfx/Moment_Player_Update_Feed/releases/download/v0.2.8/MomentPlayer-Setup-0.2.8.exe",
-  "version": "0.2.8",
-  "sha256": "3e74158d3d16d19fcb8abf4b21cf2b13b5e3e0c1f456c2a5dc0cc3aa1b9d5d44",
-  "published_at_utc": "2026-05-16T03:04:15Z",
-  "body": "Исправлено автообновление: плеер снова скачивает новые версии в фоне."
+  "installer_url": "https://github.com/Arkanoidvfx/Moment_Player_Update_Feed/releases/download/v0.2.11/MomentPlayer-Setup-0.2.11.exe",
+  "version": "0.2.11",
+  "sha256": "b7ef701e2c76bf6a504099f14525f16c5ab45058fb89734d76f79cef23efb93e",
+  "published_at_utc": "2026-05-17T14:49:32Z",
+  "body": "Запуск плеера ускорен в 40+ раз. Добавлен анонимный сбор метрик (можно выключить)."
 }
-
