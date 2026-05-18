@@ -1,7 +1,7 @@
 {
-  "installer_url": "https://github.com/Arkanoidvfx/Moment_Player_Update_Feed/releases/download/v0.2.21/MomentPlayer-Setup-0.2.21.exe",
-  "version": "0.2.21",
-  "sha256": "d2c3cad46f749ca836b1027ccc0d71b97f16fab34675a631bbcff681a7249163",
-  "published_at_utc": "2026-05-18T17:41:59Z",
-  "body": "Обновления идут в фоне, а после установки плеер показывает короткий патчноут."
+  "installer_url": "https://github.com/Arkanoidvfx/Moment_Player_Update_Feed/releases/download/v0.2.22/MomentPlayer-Setup-0.2.22.exe",
+  "version": "0.2.22",
+  "sha256": "7c3492e0fa358021b16d72c35d2c4147da1d772aec0ee1eb40fe51380174b168",
+  "published_at_utc": "2026-05-18T19:09:17Z",
+  "body": "Патчноут больше не повторяется, закрывается и аккуратно помещается на экране."
 }
