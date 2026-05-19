@@ -1,7 +1,7 @@
 {
-  "installer_url": "https://github.com/Arkanoidvfx/Moment_Player_Update_Feed/releases/download/v0.2.26/MomentPlayer-Setup-0.2.26.exe",
-  "version": "0.2.26",
-  "sha256": "972919a5d8c5945b63c96bf5e30106d5b754e86a98c910b19c404cac082f7714",
-  "published_at_utc": "2026-05-19T03:00:57Z",
-  "body": ""
+  "installer_url": "https://github.com/Arkanoidvfx/Moment_Player_Update_Feed/releases/download/v0.2.27/MomentPlayer-Setup-0.2.27.exe",
+  "version": "0.2.27",
+  "sha256": "61e164a8aee0e2eecb508a8fb16e7dddf1913313fadf9d0c20aeb3303ee7f64f",
+  "published_at_utc": "2026-05-19T12:31:14Z",
+  "body": "Левая кнопка переключения клипов снова появляется."
 }
