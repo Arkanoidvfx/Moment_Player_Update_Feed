@@ -1,7 +1,7 @@
 {
-  "installer_url": "https://github.com/Arkanoidvfx/Moment_Player_Update_Feed/releases/download/v0.2.23/MomentPlayer-Setup-0.2.23.exe",
-  "version": "0.2.23",
-  "sha256": "c8ba02d04660c6bb10c2e3cd25ba6a3554cbb452588bb5f51c01b9cd7fd72766",
-  "published_at_utc": "2026-05-18T20:10:06Z",
-  "body": "Патчноут стал компактнее, а левая кнопка снова переключает клипы."
+  "installer_url": "https://github.com/Arkanoidvfx/Moment_Player_Update_Feed/releases/download/v0.2.25/MomentPlayer-Setup-0.2.25.exe",
+  "version": "0.2.25",
+  "sha256": "3f519bfabc50b76db969ca5e1147ae822949829db54051c446eddf701a4fc660",
+  "published_at_utc": "2026-05-19T01:46:57Z",
+  "body": "Левая кнопка переключения снова видна, а проверка актуальной версии стала точнее."
 }
